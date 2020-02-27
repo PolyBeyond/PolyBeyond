@@ -1,6 +1,8 @@
+---
 title: Home
 layout: template
 filename: index
+---
 
 ## Welcome to GitHub Pages
 
