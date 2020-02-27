@@ -1,4 +1,6 @@
-theme: jekyll-theme-merlot
+---
+layout: default
+---
 
 ## Welcome to GitHub Pages
 
