@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/PolyBeyond/PolyBeyond/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-this is a link to another page [Page Link](https://PolyBeyond.com/README.md)
+this is a link to another page [Page Link](https://PolyBeyond.com/README.html)
 
 Downlaod here [Page Link](https://PolyBeyond.com/Download.md)
 
